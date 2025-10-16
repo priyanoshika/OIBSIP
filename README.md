@@ -1,6 +1,7 @@
 Sales Prediction Model: A Linear Regression Approach
 
 Overview
+
 This project focuses on building a sales prediction model using Linear Regression to forecast sales trends based on advertising data. The primary goal was to develop a reliable predictive tool by analyzing the relationship between different marketing channels and sales performance.
 
 Key Features & Accomplishments
