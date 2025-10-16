@@ -1,4 +1,3 @@
-Project Title
 Sales Prediction Model: A Linear Regression Approach
 
 Overview
